@@ -1,5 +1,5 @@
 {
-  "name": "zipcode-app",
+  "name": "discovery-app",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
   }
 }
